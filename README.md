@@ -1,5 +1,6 @@
 # Computer_Programming-2_Activity_1
 //1.Counting Duplicate Characters.
+
 public class CP2 {
 
     static final int NO_OF_CHARS = 256;
@@ -28,6 +29,7 @@ public class CP2 {
 }
 
 //2. Finding the first non-repeated character.
+
 public class CP2 {
 
     static final int NO_OF_CHARS = 256;
@@ -65,6 +67,7 @@ public class CP2 {
 }
 
 //3. Checking whether a string contains only digits.
+
 class CP2 {
     
     public static boolean
@@ -93,6 +96,7 @@ class CP2 {
 
 
 //4. Removing white space from a string.
+
 class CP2 {
 
 static int removeWhiteSpaces(char []str)
@@ -118,6 +122,7 @@ public static void main(String[] args)
 }
 
 //5. Checking whether two strings are anagram.
+
 import java.io.*;
 import java.util.*;
  
